@@ -44298,6 +44298,9 @@
 	"meta": {
 		"label": "U.S. » States",
 		"regions": "regions",
+		"projection": {
+			"type": "geoAlbers",
+		},
 		"keys": [{
 			"value": "name",
 			"label": "Name",
