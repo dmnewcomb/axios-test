@@ -42702,7 +42702,7 @@
 		]
 	],
 	"objects": {
-		"us": {
+		"regions": {
 			"type": "GeometryCollection",
 			"geometries": [{
 				"arcs": [
@@ -44298,6 +44298,10 @@
 	"meta": {
 		"label": "U.S. » States",
 		"regions": "regions",
+		"projection": {
+			"type": "geoAzimuthalEqualArea",
+			"rotate": [79.0062169184046, -21.64030539191607]
+		},
 		"keys": [{
 			"value": "name",
 			"label": "Name",
