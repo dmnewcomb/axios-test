@@ -44299,7 +44299,7 @@
 		"label": "U.S. » States",
 		"regions": "regions",
 		"projection": {
-			"type": "geoAlbers",
+			"type": "geoAlbers"
 		},
 		"keys": [{
 			"value": "name",
