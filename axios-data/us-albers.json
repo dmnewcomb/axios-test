@@ -9189,7 +9189,7 @@
 	"meta": {
 		"label": "U.S. » States",
 		"projection": {
-			"type": "geoAlbers"
+			"type": "geoAlbersUsa"
 		},
 		"regions": "regions",
 		"keys": [{
