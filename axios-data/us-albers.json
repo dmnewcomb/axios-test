@@ -7,7 +7,7 @@
 		"translate": [-57.66491068874468, 12.97635452036684]
 	},
 	"objects": {
-		"states": {
+		"regions": {
 			"type": "GeometryCollection",
 			"geometries": [{
 				"type": "MultiPolygon",
